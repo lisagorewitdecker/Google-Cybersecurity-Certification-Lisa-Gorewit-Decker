@@ -1,4 +1,4 @@
-##Lisa Gorewit (Gorewit-Decker) Cybersecurity Professional Statement
+## Lisa Gorewit (Gorewit-Decker) Cybersecurity Professional Statement
 
 As a dedicated cybersecurity analyst, I am passionate about safeguarding digital assets and ensuring the integrity, confidentiality, and availability of critical information. I thrive on the challenges posed by the ever-evolving threat landscape and am committed to developing and implementing robust security measures that positively impact organizations and the communities they serve. 
 
