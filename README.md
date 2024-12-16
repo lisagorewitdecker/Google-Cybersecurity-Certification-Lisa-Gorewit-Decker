@@ -1,2 +1,2 @@
-# Cybersecurity Portfolio for Lisa Gorewit (Gorewit-Decker)
+## Cybersecurity Portfolio Lisa Gorewit (Gorewit-Decker)
 Lisa Gorewit (Gorewit-Decker) Google Certification Cybersecurity Portfolio
