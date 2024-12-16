@@ -1,4 +1,3 @@
-# Cybersecurity Portfolio Lisa Gorewit (Gorewit-Decker)
 ## Lisa Gorewit (Gorewit-Decker) | Google Certification Cybersecurity Portfolio
 ### Google Certifications for Professionals All 8 Required Listed Below:
 1. Foundations of Cybersecurity Google : Completed Average Grade = 
