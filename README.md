@@ -12,9 +12,9 @@
   (Each certification had Approximately 4 Modules Per Course For Each Certification)
 6. Sound the Alarm: Detection and Response: Completed Average Grade = 96.43%
   (Each certification had Approximately 4 Modules Per Course For Each Certification)
-7. Automate Cybersecurity Tasks with Python: 82% Completed/Completed Average Grade =
+7. Automate Cybersecurity Tasks with Python: 82% Completed/Completed Average Grade = 93.46%
   (Each certification had Approximately 4 Modules Per Course For Each Certification)
-8. Put It to Work: Prepare for Cybersecurity Jobs: Also in Progress/Completed Average Grade =
+8. Put It to Work: Prepare for Cybersecurity Jobs: Also in Progress/Completed Average Grade = 100%
   (Each certification had Approximately 4 Modules Per Course For Each Certification)
 
 ### Average GPA: 
