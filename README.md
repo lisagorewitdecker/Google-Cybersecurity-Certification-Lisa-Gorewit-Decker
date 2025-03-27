@@ -17,7 +17,7 @@
 8. Put It to Work: Prepare for Cybersecurity Jobs: Also in Progress/Completed Average Grade = 100%
   (Each certification had Approximately 4 Modules Per Course For Each Certification)
 
-### Average GPA: 
+### Average GPA Rounded Up: 95.65%
 
 ### Additional Cybersecurity Certifications:
 Going to Take The SIEM Exam After Completion of Google Cybersecurity for Professionals Certification
