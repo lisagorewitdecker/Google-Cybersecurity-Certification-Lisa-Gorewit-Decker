@@ -470,7 +470,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "['192.168.152.148', '192.168.190.178', '192.168.213.128', '192.168.247.153', '192.168.174.117', '192.168.148.115', '192.168.103.106', '192.168.168.144']\n"
+      "['192.168.152.148', '192.168.190.178', '192.168.213.128', '192.168.247.153', '192.168.174.117', '192.168.148.115', '192.168.168.144']\n"
      ]
     }
    ],
@@ -481,7 +481,7 @@
     "\n",
     "# Assign `pattern` to a regular expression pattern that will match with IP addresses of the form xxx.xxx.xxx.xxx\n",
     "\n",
-    "pattern = \"\\d\\d\\d\\.\\d\\d\\d\\.\\d\\d\\d\\.\\d\\d\\d\"\n",
+    "pattern = \"\\\\b\\d\\d\\d\\.\\d\\d\\d\\.\\d\\d\\d\\.\\d\\d\\d\\\\b\"\n",
     "\n",
     "# Use the `re.findall()` function on `pattern` and `log_file` to extract the IP addresses of the form xxx.xxx.xxx.xxx and display the results\n",
     "\n",
@@ -650,7 +650,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "['192.168.152.148', '192.168.22.115', '192.168.190.178', '192.168.213.128', '192.168.96.200', '192.168.247.153', '192.168.174.117', '192.168.148.115', '192.168.103.106', '192.168.168.144']\n"
+      "['192.168.152.148', '192.168.22.115', '192.168.190.178', '192.168.213.128', '192.168.96.200', '192.168.247.153', '192.168.174.117', '192.168.148.115', '192.168.168.144']\n"
      ]
     }
    ],
@@ -661,7 +661,7 @@
     "\n",
     "# Assign `pattern` to a regular expression that matches with all valid IP addresses and only those \n",
     "\n",
-    "pattern = \"\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\"\n",
+    "pattern = \"\\\\b\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\\\b\"\n",
     "\n",
     "# Use `re.findall()` on `pattern` and `log_file` and assign `valid_ip_addresses` to the output \n",
     "\n",
@@ -805,7 +805,6 @@
       "The IP address 192.168.247.153 does not require further analysis.\n",
       "The IP address 192.168.174.117 has been flagged for further analysis.\n",
       "The IP address 192.168.148.115 does not require further analysis.\n",
-      "The IP address 192.168.103.106 does not require further analysis.\n",
       "The IP address 192.168.168.144 has been flagged for further analysis.\n"
      ]
     }
@@ -817,7 +816,7 @@
     "\n",
     "# Assign `pattern` to a regular expression that matches with all valid IP addresses and only those \n",
     "\n",
-    "pattern = \"\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\"\n",
+    "pattern = \"\\\\b\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\\\b\"\n",
     "\n",
     "# Use `re.findall()` on `pattern` and `log_file` and assign `valid_ip_addresses` to the output \n",
     "\n",
