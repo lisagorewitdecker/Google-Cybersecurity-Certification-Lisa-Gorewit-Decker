@@ -546,7 +546,7 @@
     "if username in approved_list:\n",
     "    print(\"This user has access to this device!\")\n",
     "else:\n",
-    "    print(\"This user does not haave acceess to this device!\")\n",
+    "    print(\"This user does not have access to this device.\")\n",
     "    "
    ]
   },
