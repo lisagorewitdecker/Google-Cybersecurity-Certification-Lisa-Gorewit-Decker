@@ -726,9 +726,7 @@
    "source": [
     "# Assign `url` to a specific URL\n",
     "\n",
-    "# url = \"https://exampleURL1.com\"\n",
-    "\n",
-    "# the code can still run properly without having the above code commented out. Either way it returns the same letters and period or dot in the string\n",
+    "url = \"https://exampleURL1.com\"\n",
     "\n",
     "# Assign `ind` to the output of applying `.index()` to `url` in order to extract the starting index of \".com\" in `url` \n",
     "\n",
