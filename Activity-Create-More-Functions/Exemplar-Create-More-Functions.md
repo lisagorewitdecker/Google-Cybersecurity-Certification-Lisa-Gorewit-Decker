@@ -789,7 +789,7 @@
     "id": "vbUBxpRHGmWZ"
    },
    "source": [
-    "This version of the `analyze_logins()` function involves a `return` statement instead of a `print()` statement, which allows you to store the output from the function call in a variable for later usage."
+    "This version returns `login_ratio` rather than printing the ratio inside the function, which allows the caller to store and reuse it. The function still prints the current-day and average login totals."
    ]
   },
   {
