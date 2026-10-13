@@ -651,8 +651,8 @@
     "# and displays each ID created\n",
     "\n",
     "while i <= 5150: \n",
-    "    i = i + 5\n",
-    "    print(i)"
+    "    print(i)\n",
+    "    i = i + 5"
    ]
   },
   {
