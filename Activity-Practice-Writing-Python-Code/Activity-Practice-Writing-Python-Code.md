@@ -446,13 +446,18 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Hello world! I am using Python. I am a security analyst. Python is useful for security!\n"
+      "Hello world!\n",
+      "I am using Python.\n",
+      "I am a security analyst.\n",
+      "Python is useful for security!\n"
      ]
     }
    ],
    "source": [
-    "### \"Hello world!\", \"I am using Python.\", \"I am a security analyst.\", \"Python is useful for security!\" ###\n",
-    "print(\"Hello world!\", \"I am using Python.\", (\"I am a security analyst.\"), (\"Python is useful for security!\"))"
+    "print(\"Hello world!\")\n",
+    "print(\"I am using Python.\")\n",
+    "print(\"I am a security analyst.\")\n",
+    "print(\"Python is useful for security!\")"
    ]
   },
   {
