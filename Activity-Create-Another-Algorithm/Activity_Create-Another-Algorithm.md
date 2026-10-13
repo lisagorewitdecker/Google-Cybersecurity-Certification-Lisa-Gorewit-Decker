@@ -547,7 +547,7 @@ Be sure to replace the `### YOUR CODE HERE ###` with your own code before you ru
 # Define a function named `update_file` that takes in two parameters: `import_file` and `remove_list`
 # and combines the steps you've written in this lab leading up to this
 
-def update_file(import_list, remove_list):
+def update_file(import_file, remove_list):
 
     # Build `with` statement to read in the initial contents of the file
 
