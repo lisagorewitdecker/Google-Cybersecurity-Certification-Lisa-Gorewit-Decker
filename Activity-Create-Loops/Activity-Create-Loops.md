@@ -524,7 +524,7 @@
     "\n",
     "# For each IP address in the list of IP addresses from which users have tried to log in, \n",
     "# If it is among the allowed addresses, then display “IP address is allowed”\n",
-    "# Otherwise, display “IP address is not allowed”\n",
+    "# Otherwise, display “IP address is not allowed. Further investigation of login activity required”\n",
     "               \n",
     "for i in ip_addresses:\n",
     "    if i in allow_list:\n",
