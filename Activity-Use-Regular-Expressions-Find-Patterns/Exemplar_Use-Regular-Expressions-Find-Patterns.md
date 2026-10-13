@@ -173,7 +173,7 @@
     "\n",
     "# Assign `target_pattern` to a regular expression pattern for finding device IDs that start with \"r15\"\n",
     "\n",
-    "target_pattern = [\"r15\\w+\"]\n",
+    "target_pattern = r\"r15\\w+\"\n",
     "\n",
     "print(devices)"
    ]
