@@ -238,7 +238,7 @@
     "id": "r-pyoFv-ZTF7"
    },
    "source": [
-    "The regular expression pattern used was `\"r15\\w+\"`. Without the `r15`, the pattern will not match with device IDs that start with the characters `\"r15\"`. Without the `\\w`, the pattern will not match with alphanumeric characters following `\"r15\"`. Without the `+`, the pattern will match with only the first alphanumeric character that occurs after `\"r15\"`."
+    "The regular expression pattern used was `\"r15\\w+\"`. Without the `r15`, the pattern would match every alphanumeric device ID instead of limiting matches to IDs that start with `\"r15\"`. Without the `\\w`, the pattern would not match the alphanumeric characters following `\"r15\"`. Without the `+`, the pattern would match only the first alphanumeric character that occurs after `\"r15\"`."
    ]
   },
   {
