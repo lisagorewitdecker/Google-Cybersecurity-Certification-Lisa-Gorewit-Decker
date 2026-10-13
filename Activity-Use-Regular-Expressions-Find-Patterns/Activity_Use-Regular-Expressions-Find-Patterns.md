@@ -420,7 +420,7 @@
     "\n",
     "# Assign `pattern` to a regular expression pattern that will match with IP addresses of the form xxx.xxx.xxx.xxx\n",
     "\n",
-    "pattern = \"\\d\\d\\d\\.\\d\\d\\d\\.\\d\\d\\d\\.\\d\\d\\d\"\n",
+    "pattern = r\"\\b\\d\\d\\d\\.\\d\\d\\d\\.\\d\\d\\d\\.\\d\\d\\d\\b\"\n",
     "\n",
     "# Use the `re.findall()` function on `pattern` and `log_file` to extract the IP addresses of the form xxx.xxx.xxx.xxx and display the results\n",
     "\n",
