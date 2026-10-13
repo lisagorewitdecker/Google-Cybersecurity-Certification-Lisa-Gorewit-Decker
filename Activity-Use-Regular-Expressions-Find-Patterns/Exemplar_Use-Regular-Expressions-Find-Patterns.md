@@ -571,7 +571,7 @@
     "\n",
     "pattern = \"\\d+\\.\\d+\\.\\d+\\.\\d+\"\n",
     "\n",
-    "# Use the `re.findall()` function on `pattern` and `log_file` to extract the IP addresses of the updated form specifed above and display the results\n",
+    "# Use the `re.findall()` function on `pattern` and `log_file` to extract the IP addresses of the updated form specified above and display the results\n",
     "\n",
     "print(re.findall(pattern, log_file))"
    ]
