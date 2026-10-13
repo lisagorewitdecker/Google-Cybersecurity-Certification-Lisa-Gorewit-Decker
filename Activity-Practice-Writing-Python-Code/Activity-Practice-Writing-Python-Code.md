@@ -489,7 +489,7 @@
     "id": "dcbb0f5f"
    },
    "source": [
-    "It still ran the line of code of all of the printed statemtents"
+    "The cell printed all four messages."
    ]
   },
   {
