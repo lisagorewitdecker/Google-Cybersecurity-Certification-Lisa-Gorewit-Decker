@@ -638,7 +638,7 @@
     "if organization_hours == True:\n",
     "    print(\"Login attempt made during organization hours!\")\n",
     "else:\n",
-    "    print(\"Login attempt made after organization hours!\")"
+    "    print(\"Login attempt made outside of organization hours.\")"
    ]
   },
   {
