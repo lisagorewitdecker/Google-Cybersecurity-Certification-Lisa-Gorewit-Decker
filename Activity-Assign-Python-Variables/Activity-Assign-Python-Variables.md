@@ -179,13 +179,11 @@
     "\n",
     "# Assign `device_id_type` to the data type of `device_id`\n",
     "\n",
-    "device_id_type = device_id\n",
+    "device_id_type = type(device_id)\n",
     "\n",
     "# Display `device_id_type`\n",
     "\n",
-    "## print(device_id_type)   \n",
-    "\n",
-    "type(device_id)"
+    "print(device_id_type)"
    ]
   },
   {
