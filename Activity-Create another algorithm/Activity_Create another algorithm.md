@@ -311,7 +311,7 @@ ip_addresses = ip_addresses.split()
 # Name loop variable `element`
 # Loop through `ip_addresses`
 
-for element in ip_addresses:
+for element in ip_addresses.copy():
   
   # Build conditional statement
   # If current element is in `remove_list`,
