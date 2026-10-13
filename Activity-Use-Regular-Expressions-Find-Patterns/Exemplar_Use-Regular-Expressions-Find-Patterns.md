@@ -532,7 +532,7 @@
     "id": "w8fSltSBzxt2"
    },
    "source": [
-    "Examples of IP addresses that were extracted include `\"192.168.152.148\"` and `\"192.168.190.178\"`. Examples of IP addresses that were not extracted include `\"192.168.22.115\"` and `\"1923.1689.3.24\"`. IP addresses that have fewer then three digits per segment, such as `\"192.168.22.115\"` (which has two digits in the third segment and three digits in each of the other segments), are valid IP addresses but were not extracted."
+    "Examples of IP addresses that were extracted include `\"192.168.152.148\"` and `\"192.168.190.178\"`. Examples of IP addresses that were not extracted include `\"192.168.22.115\"` and `\"1923.1689.3.24\"`. IP addresses that have fewer than three digits per segment, such as `\"192.168.22.115\"` (which has two digits in the third segment and three digits in each of the other segments), are valid IP addresses but were not extracted."
    ]
   },
   {
