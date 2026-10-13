@@ -574,7 +574,7 @@ def update_file(import_file, remove_list):
 
     # Convert `ip_addresses` back to a string so that it can be written into the text file 
 
-    ip_addresses = "".join(ip_addresses)       
+    ip_addresses = " ".join(ip_addresses)
 
     # Build `with` statement to rewrite the original file
 
