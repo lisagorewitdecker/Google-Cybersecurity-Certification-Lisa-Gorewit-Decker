@@ -311,7 +311,7 @@
     "id": "vs_Qn6FSxj6p"
    },
    "source": [
-    "my for loop solution is currently commented out and it seemed more difficult than the While Loop Solution. However, I know that I am having issues having recenlty used JavaScript and Typescript I forgot to use colons instead of semi-colons when neededd."
+    "The loops produce the same output, but their control logic differs. The `for` loop creates and advances its iterator automatically, while the `while` loop requires `connection_attempts` to be initialized before the loop and incremented explicitly in the loop body."
    ]
   },
   {
