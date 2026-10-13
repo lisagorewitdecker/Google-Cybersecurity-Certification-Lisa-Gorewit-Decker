@@ -183,10 +183,6 @@
      "elapsed": 215,
      "status": "ok",
      "timestamp": 1675409466058,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "afDIGb9nQ8_x",
@@ -362,10 +358,6 @@
      "elapsed": 8,
      "status": "ok",
      "timestamp": 1675409466059,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "aziwukxMIANc",
@@ -467,10 +459,6 @@
      "elapsed": 6,
      "status": "ok",
      "timestamp": 1675409466059,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "fHlDFR0qxnc_",
@@ -574,10 +562,6 @@
      "elapsed": 6,
      "status": "ok",
      "timestamp": 1675409466060,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "e6l7KCDnIMSM",
@@ -695,10 +679,6 @@
      "elapsed": 7,
      "status": "ok",
      "timestamp": 1675409466062,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "yi5zRbB5IanK",
@@ -816,10 +796,6 @@
      "elapsed": 6,
      "status": "ok",
      "timestamp": 1675409466062,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "ImXnu4OVIidz",
@@ -877,9 +853,7 @@
     "<details>\n",
     "  <summary><h4><strong>Hint 1</strong></h4></summary>\n",
     "\n",
-    "To calculate the ratio of the logins made on the current day to the logins made on an average day, divide `current_day_logins` by `average_day_logins`.\n",
-    "\n",
-    "Assign a variable named `login_ratio` to the result of this calculation, using the `=` assignment operator.\n",
+    "The condition checks whether the value stored in `login_analysis` is at least `3`.\n",
     "\n",
     "</details>"
    ]
@@ -893,7 +867,7 @@
     "<details>\n",
     "  <summary><h4><strong>Hint 2</strong></h4></summary>\n",
     "    \n",
-    "To assign a variable named `login_ratio` to the result of the calculation, use the `=` assignment operator. Write `login_ratio` to the left of `=`, and place the calculation to the right of `=`.    \n",
+    "Use Python's `>=` operator between `login_analysis` and `3` to check whether the value is greater than or equal to the threshold.\n",
     "\n",
     "</details>"
    ]
@@ -907,7 +881,7 @@
     "<details>\n",
     "  <summary><h4><strong>Hint 3</strong></h4></summary>\n",
     "    \n",
-    "Call the updated `analyze_logins()` function and pass in `\"ejones\"`, `9`, and `3` as the three arguments, in that order.\n",
+    "Complete the condition as `if login_analysis >= 3:`.\n",
     "\n",
     "</details>"
    ]
