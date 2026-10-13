@@ -167,9 +167,9 @@
    "source": [
     "## Task 2\n",
     "\n",
-    "Imagine that you have just been informed of a new criteria for employee IDs. They must all be five digits long for standardization purposes.\n",
+    "Imagine that you have just been informed of a new criterion for employee IDs. They must all be five characters long for standardization purposes.\n",
     "\n",
-    "In this task, you will write a conditional statement that displays a message if the length of the employee ID is less than five digits.\n",
+    "In this task, you will write a conditional statement that displays a message if the length of the employee ID is less than five characters.\n",
     "\n",
     "Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.\n"
    ]
