@@ -739,9 +739,7 @@
     "<details>\n",
     "  <summary><h4><strong>Hint 1</strong></h4></summary>\n",
     "\n",
-    "To calculate the ratio of the logins made on the current day to the logins made on an average day, divide `current_day_logins` by `average_day_logins`.\n",
-    "\n",
-    "Assign a variable named `login_ratio` to the result of this calculation, using the `=` assignment operator.\n",
+    "Check whether `login_analysis` is at least the threshold value of `3`.\n",
     "\n",
     "</details>"
    ]
@@ -755,7 +753,7 @@
     "<details>\n",
     "  <summary><h4><strong>Hint 2</strong></h4></summary>\n",
     "\n",
-    "To assign a variable named `login_ratio` to the result of the calculation, use the `=` assignment operator. Write `login_ratio` to the left of `=`, and place the calculation to the right of `=`.    \n",
+    "Python's `>=` operator checks whether the value on its left is greater than or equal to the value on its right.\n",
     "\n",
     "</details>"
    ]
@@ -769,7 +767,7 @@
     "<details>\n",
     "  <summary><h4><strong>Hint 3</strong></h4></summary>\n",
     "    \n",
-    "Call the updated `analyze_logins()` function and pass in `\"ejones\"`, `9`, and `3` as the three arguments, in that order.\n",
+    "Write `if login_analysis >= 3:` to check whether the ratio is at least 3.\n",
     "\n",
     "</details>"
    ]
