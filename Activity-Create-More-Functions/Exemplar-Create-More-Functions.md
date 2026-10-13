@@ -146,7 +146,7 @@
    },
    "source": [
     "#### **Question 1**\n",
-    "*There is a huge increase in the failed login list from 119 — 223. It would make me concerned and try to find correlating data on the server and database with mySQL and linux and even create additional functions in Python to figure out if there was access to the server and database and I would show it to my supervisor and see why the jump in failed logins occured and if it was coming from somoene we work with or internally and if not check tosee if the server and database were modified and accesssed and by whom and why?*"
+    "**What do you observe from the output above? Do you notice any outlying numbers that indicate an increase in the failed number of login attempts?**"
    ]
   },
   {
