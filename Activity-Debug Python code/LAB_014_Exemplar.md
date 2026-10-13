@@ -330,7 +330,7 @@ elif system == "OS 3":
     print("Patch date:", patch_schedule[2])
 ```
 
-    Patch date: March 1st
+    Patch date: April 1st
 
 
 <details>
