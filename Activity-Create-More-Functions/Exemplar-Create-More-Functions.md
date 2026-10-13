@@ -83,10 +83,6 @@
      "elapsed": 5,
      "status": "ok",
      "timestamp": 1675409465846,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "dTDzNP2jK_y-",
