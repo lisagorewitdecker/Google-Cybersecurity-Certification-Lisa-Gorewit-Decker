@@ -473,7 +473,7 @@
     "        sum_variable = sum_variable + i\n",
     "\n",
     "  # Display the value of `sum_variable`\n",
-    "        print(sum_variable)\n",
+    "  print(sum_variable)\n",
     "\n",
     "# Call the `list_to_string()` function\n",
     "\n",
