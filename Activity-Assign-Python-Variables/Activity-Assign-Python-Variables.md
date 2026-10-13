@@ -856,7 +856,7 @@
     "\n",
     "# Assign `login_attempts` to a specific value\n",
     "\n",
-    "login_attempts = ### YOUR CODE HERE ###\n",
+    "login_attempts = 4\n",
     "\n",
     "# Determine whether the current number of login attempts a user has made is less than or equal to the maximum number of login attempts allowed,\n",
     "# and display the resulting Boolean value\n",
