@@ -467,7 +467,7 @@ Call `file.read()`. Place this to the right of the `=` operator to assign the ou
 
 ## File contents reset
 
-You can run the following code to reset the `"data/login.txt"` file to its original contents. Because of how Coursera handles files, this will be necessary if you wish to complete this lab more than once or if you have unintentionally changed the file in a way that does not correspond to the lab tasks.
+You can run the following code to reset the `login.txt` file to its original contents. Because of how Coursera handles files, this will be necessary if you wish to complete this lab more than once or if you have unintentionally changed the file in a way that does not correspond to the lab tasks.
 
 
 ```python
