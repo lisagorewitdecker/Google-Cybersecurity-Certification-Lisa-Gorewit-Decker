@@ -565,16 +565,7 @@ def update_file(import_file, remove_list):
     # Name loop variable `element`
     # Loop through `ip_addresses`
 
-    for element in ip_addresses:
-
-        # Build conditional statement
-        # If current element is in `remove_list`,
-
-        if element in remove_list:
-
-            # then current element should be removed from `ip_addresses`
-
-            ip_addresses.remove(element)
+    ip_addresses = [element for element in ip_addresses if element not in remove_list]
 
     # Convert `ip_addresses` back to a string so that it can be written into the text file 
 
