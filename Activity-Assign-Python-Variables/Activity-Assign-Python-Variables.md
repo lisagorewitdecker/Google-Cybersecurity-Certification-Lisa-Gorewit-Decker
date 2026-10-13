@@ -806,7 +806,7 @@
     "\n",
     "To determine whether the current number of login attempts a user has made is less than or equal to the maximum number of login attempts allowed, use the `<=` operator. Place `login_attempts` to the left of the `<=` operator, and place `max_logins` to the right of the `<=` operator.\n",
     "\n",
-    "To make sure the resulting Boolean value is displayed, write this code inside of the parantheses where `print()` is called.\n",
+    "To make sure the resulting Boolean value is displayed, write this code inside of the parentheses where `print()` is called.\n",
     "\n",
     "</details>"
    ]
