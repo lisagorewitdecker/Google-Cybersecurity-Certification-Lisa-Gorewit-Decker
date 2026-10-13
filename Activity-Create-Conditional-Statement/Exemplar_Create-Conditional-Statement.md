@@ -72,10 +72,6 @@
      "elapsed": 8,
      "status": "ok",
      "timestamp": 1675409433051,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "6de25674",
@@ -209,10 +205,6 @@
      "elapsed": 267,
      "status": "ok",
      "timestamp": 1675409433313,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "8f93d4f9",
@@ -443,10 +435,6 @@
      "elapsed": 10,
      "status": "ok",
      "timestamp": 1675409433314,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "9543e585",
@@ -548,10 +536,6 @@
      "elapsed": 9,
      "status": "ok",
      "timestamp": 1675409433314,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "a9e2a586",
@@ -658,10 +642,6 @@
      "elapsed": 7,
      "status": "ok",
      "timestamp": 1675409433314,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "4ddfba9a",
@@ -776,10 +756,6 @@
      "elapsed": 6,
      "status": "ok",
      "timestamp": 1675409433315,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "226a807c",
@@ -871,10 +847,6 @@
      "elapsed": 5,
      "status": "ok",
      "timestamp": 1675409433315,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "344272b2-62c6-4264-bf08-92f1bdd5e427",

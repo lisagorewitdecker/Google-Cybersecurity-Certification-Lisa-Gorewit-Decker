@@ -78,10 +78,6 @@
      "elapsed": 8,
      "status": "ok",
      "timestamp": 1675409251544,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "a5Kqx1C3H5m2",
@@ -175,10 +171,6 @@
      "elapsed": 5,
      "status": "ok",
      "timestamp": 1675409251544,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "kRAxA7y9idhW",
@@ -294,10 +286,6 @@
      "elapsed": 263,
      "status": "ok",
      "timestamp": 1675409251804,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "SS62ApI5jAml",
@@ -389,10 +377,6 @@
      "elapsed": 12,
      "status": "ok",
      "timestamp": 1675409251804,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "9SS5MG-91BzX",
@@ -507,10 +491,6 @@
      "elapsed": 11,
      "status": "ok",
      "timestamp": 1675409251805,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "pIEGyb-zlA8A",
@@ -616,10 +596,6 @@
      "elapsed": 10,
      "status": "ok",
      "timestamp": 1675409251805,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "dbJ7MNJylVfs",
@@ -734,10 +710,6 @@
      "elapsed": 8,
      "status": "ok",
      "timestamp": 1675409251805,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "sU5EhaVvyKQd",
@@ -854,10 +826,6 @@
      "elapsed": 8,
      "status": "ok",
      "timestamp": 1675409251806,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "3Bur4a2ozYdg",
@@ -959,10 +927,6 @@
      "elapsed": 7,
      "status": "ok",
      "timestamp": 1675409251806,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "sEdWODAo0ZP9",
@@ -1050,10 +1014,6 @@
      "elapsed": 6,
      "status": "ok",
      "timestamp": 1675409251806,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "GI8JJigW1bsO",
