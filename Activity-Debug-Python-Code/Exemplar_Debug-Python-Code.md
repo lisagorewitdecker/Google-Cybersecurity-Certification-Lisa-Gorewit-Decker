@@ -312,7 +312,7 @@ However, this code has logic errors. Your goal is to assign the `system` variabl
 ```python
 # Assign `system` to a specific operating system as a string
 
-system = "OS 2"
+system = "OS 1"
 
 # Assign `patch_schedule` to a list of patch dates in order of operating system
 
