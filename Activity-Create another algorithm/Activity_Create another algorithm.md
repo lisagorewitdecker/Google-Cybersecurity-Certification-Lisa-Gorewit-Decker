@@ -384,7 +384,7 @@ ip_addresses = ip_addresses.split()
 # Name loop variable `element`
 # Loop through `ip_addresses`
 
-for element in ip_addresses:
+for element in ip_addresses.copy():
   
   # Build conditional statement
   # If current element is in `remove_list`,
@@ -406,11 +406,7 @@ with open(import_file, "w") as file:
 # Rewrite the file, replacing its contents with `ip_addresses`
 
     file.write(ip_addresses)
-    print(text)
 ```
-
-    ip_address 192.168.205.12 192.168.6.9 192.168.52.90 192.168.90.124 192.168.186.176 192.168.133.188 192.168.218.219 192.168.52.37 192.168.156.224 192.168.60.153 192.168.69.116
-
 
 <details>
   <summary><h4><strong>Hint 1</strong></h4></summary>

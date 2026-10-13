@@ -164,21 +164,25 @@ username = "esmith"
 
 # For loop that iterates over the elements of `usernames_list` and determines whether each element corresponds to an approved user
 
+approved = False
+
 for name in usernames_list:
     
 # Check if `name` matches `username` 
 
     if name == username:
-        
-        print("The user is an approved user")
+        approved = True
+        break
 
 # If it does match, then display a message accordingly 
 
-print("The user is not an approved user")
+if approved:
+    print("The user is an approved user")
+else:
+    print("The user is not an approved user")
 ```
 
     The user is an approved user
-    The user is not an approved user
 
 
 <details>
