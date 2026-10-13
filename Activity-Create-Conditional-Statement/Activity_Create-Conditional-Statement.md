@@ -294,12 +294,12 @@
     "# Otherwise if OS 1 is running, display a \"update needed\" message\n",
     "# Otherwise if OS 3 is running, display a \"update needed\" message\n",
     "\n",
-    "if system == \"OS 1\":\n",
-    "    print(\"update needed\")\n",
-    "elif system == \"OS 2\":\n",
+    "if system == \"OS 2\":\n",
+    "    print(\"no update needed\")\n",
+    "elif system == \"OS 1\":\n",
     "    print(\"update needed\")\n",
     "elif system == \"OS 3\":\n",
-    "    print(\"no update needed\")    "
+    "    print(\"update needed\")    "
    ]
   },
   {
