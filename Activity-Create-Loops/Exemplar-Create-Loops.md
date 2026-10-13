@@ -662,7 +662,7 @@
     "\n",
     "Use the `<=` comparison operator to check whether `i` has reached the upper bound, since the employee IDs need to fall between 5000 and 5150. \n",
     "\n",
-    "At the end of the loop, increment the loop variable by 5. This is because the employee IDs need to be divisble by 5 and the first employee ID is set to 5000.\n",
+    "At the end of the loop, increment the loop variable by 5. This is because the employee IDs need to be divisible by 5 and the first employee ID is set to 5000.\n",
     "    \n",
     "</details>"
    ]
