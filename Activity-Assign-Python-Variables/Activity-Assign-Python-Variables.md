@@ -574,15 +574,15 @@
    "source": [
     "# Assign `max_logins` to the value 3\n",
     "\n",
-    "### YOUR CODE HERE ###\n",
+    "max_logins = 3\n",
     "\n",
     "# Assign `max_logins_type` to the data type of `max_logins`\n",
     "\n",
-    "### YOUR CODE HERE ### = type(max_logins)\n",
+    "max_logins_type = type(max_logins)\n",
     "\n",
     "# Display `max_logins_type`\n",
     "\n",
-    "### YOUR CODE HERE ###(max_logins_type)\n"
+    "print(max_logins_type)\n"
    ]
   },
   {
