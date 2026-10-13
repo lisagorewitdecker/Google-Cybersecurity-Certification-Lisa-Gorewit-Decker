@@ -501,7 +501,7 @@
     "## Conclusion\n",
     "**What are your key takeaways from this lab?**\n",
     "\n",
-    "You can use commas and parenthesis in a string you have already written."
+    "Commas separate multiple arguments passed to `print()`, and parentheses around individual string literals are unnecessary."
    ]
   },
   {
