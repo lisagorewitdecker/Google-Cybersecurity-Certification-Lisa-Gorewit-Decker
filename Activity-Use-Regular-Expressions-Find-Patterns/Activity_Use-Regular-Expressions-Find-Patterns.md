@@ -620,7 +620,7 @@
     "<details>\n",
     "  <summary><h4><strong>Hint 2</strong></h4></summary>\n",
     "\n",
-    "Recall that a valid IP address consists of four segments of three digits each, separated by periods. \n",
+    "For this exercise, a valid IP address consists of four segments of one to three digits each, separated by periods. \n",
     "\n",
     "To represent a segment of three digits followed by a period, use `\\d{1,3}\\.` in the regular expression pattern you build. \n",
     "\n",
