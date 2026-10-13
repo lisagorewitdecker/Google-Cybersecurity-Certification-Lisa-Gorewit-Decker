@@ -840,7 +840,7 @@
     "## Conclusion\n",
     "**What are your key takeaways from this lab?**\n",
     "\n",
-    "this lab was hard and dreadfula as My code would work in pycharm but not in jupiter's IDE. very dissapointing taking me much more time as jupiter wont run if there is any blank text or space behnd the code to run the questions were fun to figure out the While Loops and For Loops but having to check for extra space was the reason my code wasn't running.   \n",
+    "This lab was challenging because I had difficulty getting my code to run in Jupyter's IDE. Debugging took more time than expected, but the questions about while and for loops were fun to figure out.  \n",
     "\n",
     "\n",
     "\n",
