@@ -828,7 +828,7 @@
     "id": "-j5YIVKSGph4"
    },
    "source": [
-    "to set up the variable for the conditional coming and store it temporarily"
+    "The statement `print(i)` is outside the conditional so that every generated employee ID is displayed. If it were inside the `if i == 5100` block, only `5100` would be displayed."
    ]
   },
   {
