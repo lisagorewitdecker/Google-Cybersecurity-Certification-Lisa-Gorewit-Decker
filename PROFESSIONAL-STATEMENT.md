@@ -1,7 +1,14 @@
-## Lisa Gorewit (Gorewit-Decker) Cybersecurity Professional Statement
+## Lisa M. Gorewit-Decker | Cybersecurity Professional Statement
 
-As a dedicated cybersecurity analyst, I am passionate about safeguarding digital assets and ensuring the integrity, confidentiality, and availability of critical information. I thrive on the challenges posed by the ever-evolving threat landscape and am committed to developing and implementing robust security measures that positively impact organizations and the communities they serve. 
+As a cybersecurity analyst, I focus on protecting critical digital infrastructure and safeguarding the confidentiality, integrity, and availability (CIA) of enterprise data. Operating in an evolving threat landscape, I take a proactive, risk-first approach to identifying vulnerabilities, hardening security postures, and mitigating operational risks before they materialize.
 
-I prioritize a proactive approach to protecting sensitive information, placing a strong emphasis on risk mitigation and maintaining a resilient security posture. My analytical skills and attention to detail enable me to identify potential vulnerabilities and devise effective strategies to address them. Furthermore, I am a firm believer in continuous learning and staying abreast of the latest advancements in cybersecurity technologies and best practices to ensure that the organizations I support are well-equipped to handle emerging threats.
-
-Collaborating with cross-functional teams, I strive to foster a culture of security awareness and empower stakeholders with the knowledge and tools necessary to make informed decisions. Ultimately, I am committed to utilizing my expertise to fortify organizational security and contribute positively to achieving operational excellence in today's digital age.
+### Core Competencies:
+* <b><i>Threat Analysis & Vulnerability Management:</i></b>
+  Identifying system weaknesses, assessing risk vectors, and deploying actionable remediation strategies.
+* <b><i>Proactive Posture Management:</i></b>
+  Aligning defense strategies with modern frameworks to maintain business continuity and resilience.
+* <b><i>Security Culture & Enablement:</i></b> 
+  Partnering with cross-functional teams to demystify security protocols, drive organizational compliance, and champion user awareness.
+* <b><i>Continuous Intelligence:</i></b> 
+  Actively tracking emerging exploit trends, modern defensive tooling, and industry best practices. My objective is to bridge
+  technical defense with business enablement, ensuring security operates as a catalyst for operational resilience.
