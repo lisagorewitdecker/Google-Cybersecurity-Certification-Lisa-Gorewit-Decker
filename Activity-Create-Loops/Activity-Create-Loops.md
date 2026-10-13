@@ -90,7 +90,7 @@
     "# Iterative statement using `for`, `range()`, and a loop variable of `i`\n",
     "# Display \"Connection could not be established.\" three times\n",
     "\n",
-    "for i in range(8):\n",
+    "for i in range(3):\n",
     "    print(\"Connection could not be established.\")"
    ]
   },
