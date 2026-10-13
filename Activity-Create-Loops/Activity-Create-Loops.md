@@ -763,7 +763,7 @@
     "# While loop that generates unique employee IDs for the Sales department by iterating through numbers\n",
     "# and displays each ID created\n",
     "\n",
-    "while i <= 5100:\n",
+    "while i <= 5150:\n",
     "    print(i)\n",
     "    if i == 5100:\n",
     "        print(\"Only 10 valid employee ids remaining\")\n",
