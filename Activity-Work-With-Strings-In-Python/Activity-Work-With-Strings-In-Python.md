@@ -91,7 +91,7 @@
     "\n",
     "# Reassign `employee_id` to the same value but in the form of a string\n",
     "\n",
-    "employee_id = str(4186)\n",
+    "employee_id = str(employee_id)\n",
     "\n",
     "# Display the data type of `employee_id` now\n",
     "\n",
@@ -153,9 +153,9 @@
    "source": [
     "## Task 2\n",
     "\n",
-    "Imagine that you have just been informed of a new criteria for employee IDs. They must all be five digits long for standardization purposes.\n",
+    "Imagine that you have just been informed of a new criterion for employee IDs. They must all be five characters long for standardization purposes.\n",
     "\n",
-    "In this task, you will write a conditional statement that displays a message if the length of the employee ID is less than five digits. \n",
+    "In this task, you will write a conditional statement that displays a message if the length of the employee ID is less than five characters.\n",
     "\n",
     "Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.\n"
    ]
@@ -171,7 +171,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "This employee ID has less than five digits. It does not meet length requirements.\n"
+      "This employee ID has less than five characters. It does not meet length requirements.\n"
      ]
     }
    ],
@@ -184,10 +184,10 @@
     "\n",
     "employee_id = str(employee_id)\n",
     "\n",
-    "# Conditional statement that displays a message if the length of `employee_id` is less than five digits\n",
+    "# Conditional statement that displays a message if the length of `employee_id` is less than five characters\n",
     "\n",
     "if len(employee_id) < 5:\n",
-    "    print(\"This employee ID has less than five digits. It does not meet length requirements.\")\n",
+    "    print(\"This employee ID has less than five characters. It does not meet length requirements.\")\n",
     "    "
    ]
   },
@@ -241,7 +241,7 @@
    "source": [
     "## Task 3\n",
     "\n",
-    "In this task, you'll build upon the previous code. If an employee ID is only four digits, you'll use concatenation to create a five-digit employee ID number.\n",
+    "In this task, you'll build upon the previous code. If an employee ID is only four digits, you'll use concatenation to create a five-character employee ID.\n",
     "\n",
     "Concatenation is a process that allows you to merge strings together. The addition operator (`+`) in Python allows you to concatenate two strings.\n",
     "\n",
@@ -277,7 +277,7 @@
     "\n",
     "print(employee_id)\n",
     "\n",
-    "# Conditional statement that updates the `employee_id` if its length is less than 5 digits\n",
+    "# Conditional statement that updates the `employee_id` if its length is less than 5 characters\n",
     "\n",
     "if len(employee_id) < 5:\n",
     "    employee_id = \"E\" + employee_id\n",
@@ -779,25 +779,22 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "https://google.com/\n"
+      "exampleURL1\n"
      ]
     }
    ],
    "source": [
     "# Assign `url` to a specific URL\n",
     "\n",
-    "url = \"https://google.com/\"\n",
+    "url = \"https://exampleURL1.com\"\n",
     "\n",
-    "# the code will not run properly if you would like the printed value to have a forward slash in it at the end then you will need to include\n",
+    "# Assign `ind` to the output of applying `.index()` to `url` in order to extract the starting index of \".com\" in `url`\n",
     "\n",
-    "# the variable url = \"https://google.com/\" must be a variable if you want to print out the forward slash after.com/\"\n",
-    "# Assign `ind` to the output of applying `.index()` to `url` in order to extract the starting index of \".com\" in `url` \n",
-    "\n",
-    "ind = url.index(\"https://google.com/\")\n",
+    "ind = url.index(\".com\")\n",
     "\n",
     "# Extract the website name in `url` and display it\n",
     "\n",
-    "print(url[ind:ind + 19])\n",
+    "print(url[8:ind])\n",
     "    "
    ]
   },
@@ -824,7 +821,7 @@
     "<details>\n",
     "    <summary><h4><strong>Hint 2</strong></h4></summary>\n",
     "\n",
-    "The starting index should be set to `8`, since this is the position after the protocol and the `://` syntax ends and where the website name begins. The ending index should be set to the position where the `.com` domain name begins.\n",
+    "The starting index should be set to `8`, since this is the position after the protocol and the `://` syntax ends and where the website name begins. The ending index should be set to the position where the `.com` domain extension begins.\n",
     "    \n",
     "</details>"
    ]

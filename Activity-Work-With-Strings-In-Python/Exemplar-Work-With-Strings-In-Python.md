@@ -75,10 +75,6 @@
      "elapsed": 12,
      "status": "ok",
      "timestamp": 1675409235957,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "77ZfXt6DzhFr",
@@ -185,10 +181,6 @@
      "elapsed": 7,
      "status": "ok",
      "timestamp": 1675409235958,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "XMiKlqT-4Oxr",
@@ -199,7 +191,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "This employee ID has less than five digits. It does not meet length requirements.\n"
+      "This employee ID has less than five characters. It does not meet length requirements.\n"
      ]
     }
    ],
@@ -212,10 +204,10 @@
     "\n",
     "employee_id = str(employee_id)\n",
     "\n",
-    "# Conditional statement that displays a message if the employee ID length is less than 5 digits\n",
+    "# Conditional statement that displays a message if the employee ID length is less than 5 characters\n",
     "\n",
     "if len(employee_id) < 5:\n",
-    "    print(\"This employee ID has less than five digits. It does not meet length requirements.\")\n",
+    "    print(\"This employee ID has less than five characters. It does not meet length requirements.\")\n",
     "    "
    ]
   },
@@ -269,7 +261,7 @@
    "source": [
     "## Task 3\n",
     "\n",
-    "In this task, you'll build upon the previous code. If an employee ID is only four digits, you'll use concatenation to create a five-digit employee ID number.\n",
+    "In this task, you'll build upon the previous code. If an employee ID is only four digits, you'll use concatenation to create a five-character employee ID.\n",
     "\n",
     "Concatenation is a process that allows you to merge strings together. The addition operator (`+`) in Python allows you to concatenate two strings.\n",
     "\n",
@@ -287,10 +279,6 @@
      "elapsed": 6,
      "status": "ok",
      "timestamp": 1675409235958,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "rEpwg56I-XYd",
@@ -319,7 +307,7 @@
     "\n",
     "print(employee_id)\n",
     "\n",
-    "# Conditional statement that updates the `employee_id` if its length is less than 5 digits\n",
+    "# Conditional statement that updates the `employee_id` if its length is less than 5 characters\n",
     "\n",
     "if len(employee_id) < 5:\n",
     "    employee_id = \"E\" + employee_id\n",
@@ -397,10 +385,6 @@
      "elapsed": 4,
      "status": "ok",
      "timestamp": 1675409235958,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "r-qJI6RSD_h-",
@@ -491,10 +475,6 @@
      "elapsed": 172,
      "status": "ok",
      "timestamp": 1675409236127,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "f_oetI5DGIik",
@@ -589,10 +569,6 @@
      "elapsed": 15,
      "status": "ok",
      "timestamp": 1675409236128,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "KN8_OTQtLtPk",
@@ -683,10 +659,6 @@
      "elapsed": 8,
      "status": "ok",
      "timestamp": 1675409236128,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "LAmLF0XTQDZT",
@@ -817,10 +789,6 @@
      "elapsed": 8,
      "status": "ok",
      "timestamp": 1675409236129,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "B05TSVrLMJDU",
@@ -889,10 +857,6 @@
      "elapsed": 6,
      "status": "ok",
      "timestamp": 1675409236129,
-     "user": {
-      "displayName": "Lavanya Vijayan",
-      "userId": "09394087000910120547"
-     },
      "user_tz": 480
     },
     "id": "EaFzp2CEPAAP",
@@ -944,7 +908,7 @@
     "<details>\n",
     "    <summary><h4><strong>Hint 2</strong></h4></summary>\n",
     "\n",
-    "The starting index should be set to `8`, since this is the position after the protocol and the `://` syntax ends and where the website name begins. The ending index should be set to the position where the `.com` domain name begins.\n",
+    "The starting index should be set to `8`, since this is the position after the protocol and the `://` syntax ends and where the website name begins. The ending index should be set to the position where the `.com` domain extension begins.\n",
     "\n",
     "</details>"
    ]
