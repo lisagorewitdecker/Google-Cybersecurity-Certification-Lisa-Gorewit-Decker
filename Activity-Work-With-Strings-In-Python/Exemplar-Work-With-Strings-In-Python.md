@@ -865,7 +865,7 @@
     "id": "z16IaUEB3yWH"
    },
    "source": [
-    "This code outputs the domain name `.com` by first saving the starting position of the domain name in the `ind` variable and then extracting 4 consecutive characters from `url` starting from the saved position."
+    "This code outputs the domain extension `.com` by first saving the starting position of the domain extension in the `ind` variable and then extracting 4 consecutive characters from `url` starting from the saved position."
    ]
   },
   {
