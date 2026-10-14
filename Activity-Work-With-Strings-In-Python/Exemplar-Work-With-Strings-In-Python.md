@@ -791,7 +791,7 @@
     "<details>\n",
     "    <summary><h4><strong>Hint 2</strong></h4></summary>\n",
     "\n",
-    "Call `url.index()`, and inside the parantheses, pass in the targeted domain extension as a string. Be sure to place this to the right of the `=` assignment operator, so that the result is assigned to `ind`.\n",
+    "Call `url.index()`, and inside the parentheses, pass in the targeted domain extension as a string. Be sure to place this to the right of the `=` assignment operator, so that the result is assigned to `ind`.\n",
     "\n",
     "</details>"
    ]
