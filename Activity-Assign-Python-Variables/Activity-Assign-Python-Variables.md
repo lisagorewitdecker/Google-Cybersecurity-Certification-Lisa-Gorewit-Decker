@@ -343,29 +343,11 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 21,
+   "execution_count": null,
    "metadata": {
     "id": "Yzpvr9WJ1Pi8"
    },
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "['madebowa', 'jnguyen', 'tbecker', 'nhersh', 'redwards']\n"
-     ]
-    },
-    {
-     "data": {
-      "text/plain": [
-       "list"
-      ]
-     },
-     "execution_count": 21,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
+   "outputs": [],
    "source": [
     "# Assign `username_list` to the list of usernames who are allowed to access the device\n",
     "\n",
