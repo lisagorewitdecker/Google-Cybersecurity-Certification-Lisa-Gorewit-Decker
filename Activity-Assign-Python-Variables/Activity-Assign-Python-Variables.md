@@ -92,8 +92,7 @@
     "\n",
     "# Display `device_id`\n",
     "\n",
-    "print(device_id)\n",
-    "### YOUR CODE HERE ###\n"
+    "print(device_id)\n"
    ]
   },
   {
@@ -374,15 +373,11 @@
     "\n",
     "# Assign `username_list_type` to the data type of `username_list`\n",
     "\n",
-    "username_list_type = username_list\n",
+    "username_list_type = type(username_list)\n",
     "\n",
     "# Display `username_list_type`\n",
     "\n",
-    "print(username_list_type)\n",
-    "\n",
-    "# Print list of username_list_type\n",
-    "\n",
-    "type(username_list)\n"
+    "print(username_list_type)\n"
    ]
   },
   {
@@ -670,15 +665,15 @@
    "source": [
     "# Assign `login_attempts` to the value 2\n",
     "\n",
-    "### YOUR CODE HERE ###\n",
+    "login_attempts = 2\n",
     "\n",
     "# Assign `login_attempts_type` to the data type of `login_attempts`\n",
     "\n",
-    "### YOUR CODE HERE ###\n",
+    "login_attempts_type = type(login_attempts)\n",
     "\n",
     "# Display `login_attempts_type`\n",
     "\n",
-    "### YOUR CODE HERE ###\n"
+    "print(login_attempts_type)\n"
    ]
   },
   {
@@ -837,7 +832,7 @@
    },
    "source": [
     "## Task 9\n",
-    "This code continues to check for the Boolean value of whether `max_logins` is less than or equal to `login_attempts`. In this task, reassign other values to `login_attempts`. For example, you might choose a value that is higher than the maximum number of attempts allowed. Observe how the output changes.\n",
+    "This code continues to check for the Boolean value of whether `login_attempts` is less than or equal to `max_logins`. In this task, reassign other values to `login_attempts`. For example, you might choose a value that is higher than the maximum number of attempts allowed. Observe how the output changes.\n",
     "\n",
     "Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell."
    ]
