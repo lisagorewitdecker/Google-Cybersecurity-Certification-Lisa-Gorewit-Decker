@@ -619,7 +619,7 @@
     "\n",
     "max_logins_type = type(max_logins)\n",
     "\n",
-    "# Display `max_login_type`\n",
+    "# Display `max_logins_type`\n",
     "\n",
     "print(max_logins_type)\n"
    ]
@@ -911,7 +911,7 @@
    },
    "source": [
     "## Task 9\n",
-    "This code continues to check for the Boolean value of whether `max_logins` is less than or equal to `login_attempts`. In this task, reassign other values to `login_attempts`. For example, you might choose a value that is higher than the maximum number of attempts allowed. Observe how the output changes.\n",
+    "This code continues to check for the Boolean value of whether `login_attempts` is less than or equal to `max_logins`. In this task, reassign other values to `login_attempts`. For example, you might choose a value that is higher than the maximum number of attempts allowed. Observe how the output changes.\n",
     "\n",
     "Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell."
    ]
@@ -986,7 +986,7 @@
     "id": "QgbQoSxdmLZF"
    },
    "source": [
-    "The Boolean value in the output changes depending on the value assigned to `login_attempts`. For example, when `login_attempts` is assigned to `4`, the output is `False`, which indicates that `login_attempts` is not less than or equal to `max_logins`. In other words, the current number of log in attempts the user has made has exceeded the maximum number of attempts allowed."
+    "The Boolean value in the output changes depending on the value assigned to `login_attempts`. For example, when `login_attempts` is assigned to `4`, the output is `False`, which indicates that `login_attempts` is not less than or equal to `max_logins`. In other words, the current number of login attempts the user has made has exceeded the maximum number of attempts allowed."
    ]
   },
   {
