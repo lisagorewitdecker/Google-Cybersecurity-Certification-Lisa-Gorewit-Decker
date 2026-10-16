@@ -154,23 +154,12 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 12,
+   "execution_count": null,
    "metadata": {
     "id": "9w0g21J7i01H",
     "scrolled": true
    },
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "str"
-      ]
-     },
-     "execution_count": 12,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
+   "outputs": [],
    "source": [
     "# Assign the `device_id` variable to the device ID that only specified users can access\n",
     "\n",
